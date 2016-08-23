@@ -1,0 +1,16 @@
+{
+  "name": "module-association-apriory",
+  "productName": "module-association-apriory",
+  "version": "0.1.0",
+  "author": "Nitin",
+  "description": "Provides association between different modules of bug fixing revision within the project",
+  "main": "main.html",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "icon": {
+  	"type": "fa",
+  	"name": "leaf"
+  }
+}
